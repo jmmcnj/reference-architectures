@@ -2,8 +2,8 @@
 # Deploy_ReferenceArchitecture.ps1
 #
 param(
-  [Parameter(Mandatory=$true)]
-  $SubscriptionId,
+#  [Parameter(Mandatory=$true)]
+#  $SubscriptionId,
   [Parameter(Mandatory=$false)]
   $Location = "West US 2"
 )
